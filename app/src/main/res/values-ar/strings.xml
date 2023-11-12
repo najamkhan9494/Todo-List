@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">مهمة الواجب</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="update_task">تحديث المهمة</string>
+    <string name="title_placeholder">العنوان: %s</string>
+    <string name="category_placeholder">الفئة: %s</string>
+    <string name="description_placeholder">الوصف: %s</string>
+    <string name="date_placeholder">التاريخ: %s</string>
+    <string name="priority_placeholder">الأولوية: %s</string>
+    <string name="task_edit">تحرير المهمة</string>
+    <string name="task_delete">حذف المهمة</string>
+    <string name="task_complete">وضع علامة كمكتملة</string>
+
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="apply">تطبيق</string>
+    <string name="todo_list">قائمة المهام</string>
+
+    <string name="task_delete_msg">هل تريد بالتأكيد حذف هذه المهمة؟</string>
+    <string name="task_completed_msg">هل تريد بالتأكيد وضع علامة على هذه المهمة كمكتملة؟</string>
+
+    <string name="title">العنوان</string>
+    <string name="category">الفئة</string>
+    <string name="description">الوصف</string>
+    <string name="date">التاريخ</string>
+    <string name="priority">الأولوية</string>
+    <string name="filter_by_Category">تصفية حسب الفئة</string>
+    <string name="all_field_required">يرجى ملء جميع الحقول</string>
+
+    <string name="task_added">تمت إضافة المهمة: %s</string>
+    <string name="task_deleted">تم حذف المهمة: %s</string>
+    <string name="task_updated">تم تحديث المهمة: %s</string>
+    <string name="task_completed">تم إكمال المهمة: %s</string>
+    <string name="search_tasks">البحث في المهام</string>
+
+    <string name="sort_by_priority">ترتيب حسب الأولوية</string>
+    <string name="sort_by_due_date">ترتيب حسب تاريخ الاستحقاق</string>
+    <string name="sort_by_completeness">ترتيب حسب الاكتمال</string>
+    <string name="sort_by">الترتيب حسب</string>
+
+    <string-array name="priority_levels">
+        <item>عالية</item>
+        <item>متوسطة</item>
+        <item>منخفضة</item>
+    </string-array>
+</resources>
